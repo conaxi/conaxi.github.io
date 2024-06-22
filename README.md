@@ -1,1 +1,3 @@
-this is a personal website :D
+# conaxi.github.io
+
+This is a personal website.
