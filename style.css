@@ -1,0 +1,29 @@
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Inconsolata", monospace;
+  background-color: honeydew;
+}
+
+body {
+  width: calc(100vw / 2);
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  padding-top: 30px;
+
+  border-bottom: 1px solid black;
+}
+
+ol {
+  display: flex;
+  gap: 3rem;
+}
